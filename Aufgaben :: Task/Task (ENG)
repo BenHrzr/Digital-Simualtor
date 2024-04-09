@@ -1,0 +1,21 @@
+  Logical connections in everyday life
+
+
+  For the following examples
+- a circuit layout with labeling,
+- a function table, the inputs are labeled with the lowercase letters a, b, ...and the output with y,
+  and the corresponding logical function.
+
+
+1.  Our school has an Internet connection. This gives us the opportunity to take part in the worldwide exchange of information. However, we only get access to a participant if the connection is active and we enter the correct Internet address.
+2.  Conveyor belts of packaging machines only continue transporting once the package has been filled and the filling opening has been closed.
+3.  A doorbell system can be operated from the front door or apartment door.
+4.  Fire alarm systems are installed in shopping centers. These have several smoke sensors. The system must trigger an alarm if there is even a small amount of smoke in the vicinity of a sensor.
+5.  The electric heating of an oven should only be switched on when the oven door is closed. If the oven door is opened to load the oven, the heating switches off.
+6.  Electric hedge trimmers are ready for use when they are operated with one hand and the other hand on a switch.
+7.  The burglar alarm system of a detached house has sensors on all doors and windows (at least 6). An alarm must be triggered as soon as a sensor is activated.
+8.  Almost the same task as before: The burglar alarm system of a house has sensors on all doors and windows (at least 6). An alarm must be triggered as soon as a sensor is activated. However, the system must also be "armed" (system must be switched on).
+9.  The automatic doors in department stores open when a sensor is activated inside or outside by a customer.
+10.  If there is no brake fluid in a vehicle, a message display switches on automatically.
+11.  Traffic lights have been installed in front of many schools to ensure the safety of children in road traffic. The green phase for vehicles on the road may only be switched if no input has been made on either side.
+12.  An elevator will only start up if the floor has been selected, the door's light barrier is clear and the overload protection in the floor has not been triggered.
