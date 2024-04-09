@@ -1,0 +1,27 @@
+ Logische Zusammenhänge im Alltag
+
+
+  Gestalte für die folgenden Beispiele
+• einen Schaltungsaufbau mit Beschriftung,
+• eine Funktionstabelle, die Eingänge bezeichnet man dazu mit den Kleinbuchstaben a, b, ...
+und den Ausgang mit y,
+• und die zugehörige logische Funktion.
+
+1. Unsere Schule hat Internetanschluß. Damit haben wir Gelegenheit am weltweiten Informationsaustausch teilzunehmen. Wir bekommen aber nur Zugang zu einem Teilnehmer, wenn der Anschluss aktiv ist und wir die richtige Internetadresse eingeben.
+2. Elektrische Heckenscheren sind dann betriebsbereit, wenn sie mit der einen Hand und der anderen Hand an je einem Schalter betätigt werden.
+3. Förderbänder von Verpackungsmaschinen transportieren erst dann weiter, wenn die Packung gefüllt ist und die Einfüllöffnung verschlossen wurde.
+4. Eine Hausklingelanlage kann von der Haus- oder Wohnungstür betätigt werden.
+5. In Einkaufszentren sind Feueralarmanlagen installiert. Diese besitzen mehrere
+Rauchsensoren. Bereits bei geringer Rauchentwicklung in der Nähe eines Sensors muss die
+Anlage Alarm auslösen.
+6. Die elektrische Heizung eines Backofens soll nur bei geschlossener Ofentür eingeschaltet
+sein. Wenn zum Beschicken die Ofentür geöffnet wird, dann schaltet die Heizung aus.
+7. Die Einbruchsicherung eines Einfamilienhauses besitzt an allen Türen und Fenstern
+Sensoren (mindestens 6). Bereits wenn ein Sensor aktiviert wird, dann muss Alarm
+gemeldet werden.
+8. Fast die gleiche Aufgabe wie eben: Die Einbruchsicherung eines Hauses besitzt an allen
+Türen und Fenstern Sensoren (mindestens 6). Bereits wenn ein Sensor aktiviert wird, dann muss Alarm gemeldet werden. Allerdings ist die Anlage auch "scharf" zu schalten (Anlage muss eingeschaltet sein).
+9. Die automatisch arbeitenden Türen in Kaufhäusern öffnen dann, wenn innen oder außen von einem Kunden ein Sensor aktiviert wird.
+10. Bei fehlender Bremsflüssigkeit in einem Kfz schaltet sich eine Meldeanzeige automatisch ein.
+11. Zur Sicherheit der Kinder im Straßenverkehr wurden vor vielen Schulen Verkehrsampeln installiert. Die Grünphase für Fahrzeuge auf der Straße darf nur geschaltet werden, wenn auf keiner Seite eine Eingabe erfolgt ist.
+12. Ein Fahrstuhl setzt sich dann in Betrieb, wenn die Etage gewählt wurde, die Lichtschranke der Tür frei ist und die Überlastsicherung im Fußboden nicht ausgelöst ist.
